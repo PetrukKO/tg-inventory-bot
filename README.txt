@@ -1,5 +1,5 @@
 Telegram Inventory bot
-A telegram bot designed to help me keep track of my items and their locations
+A telegram bot designed to help me keep track of my things and their location 
 
 To get started, create a .env file in the root directory with the following variables:
 BOT_TOKEN=your_telegram_bot_token
